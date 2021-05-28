@@ -1,5 +1,5 @@
 # Safe Hikes
-Hike recommender in Colorado that gives safety recommendations for each hike
+Hike recommender in Colorado that gives safety recommendations for each hike.
 
 # Website
 https://yroell.shinyapps.io/safe_hikes/
