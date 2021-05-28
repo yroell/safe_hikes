@@ -29,7 +29,7 @@ ui <- fluidPage(
   tags$head(tags$style(HTML(css))),
   # Application title
   titlePanel("Colorado hike recommender and safety suggestions"),
-  setBackgroundImage("mountain.jpg", shinydashboard = TRUE),
+  setBackgroundImage("mountain.jpg"),
   tags$h5("By Yannik Roell (yannik.roell@mg.thedataincubator.com)"),
   
   # Sidebar with a slider input for number of bins
